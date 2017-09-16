@@ -1,0 +1,11 @@
+{
+  "name": "kohana-bot",
+  "version": "1.0.0",
+  "description": "Level up, fight enemies, buy new items",
+  "main": "bot.js",
+  "author": "Sesh",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0"
+  }
+}
